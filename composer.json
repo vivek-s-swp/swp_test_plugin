@@ -13,7 +13,7 @@
             "name": "Vivek",
             "homepage": "https://github.com/vivek-s-swp/",
             "role": "Author"
-        },
+        }
     ],
     "prefer-stable": true,
     "minimum-stability": "dev"
