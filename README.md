@@ -1,1 +1,1 @@
-# swp_test_plugin
+Test plugin for swp
