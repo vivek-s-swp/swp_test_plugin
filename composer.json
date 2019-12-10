@@ -2,5 +2,20 @@
 {
     "name": "vivek-s-swp/swp_test_plugin",
     "type": "cakephp-plugin",
-    "description": "Cakephp test plugin for swp"
+    "description": "Cakephp test plugin for swp",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.2.x-dev"
+        },
+        "installer-name": "SwpTestPlugin"
+    },
+    "homepage": "https://github.com/vivek-s-swp/swp_test_plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vivek",
+            "homepage": "https://github.com/vivek-s-swp/",
+            "role": "Author"
+        },
+    ]
 }
