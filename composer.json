@@ -6,6 +6,9 @@
     "extra": {
         "installer-name": "SwpTestPlugin"
     },
+    "require": {
+        "php": ">=5.5",
+    },
     "homepage": "https://github.com/vivek-s-swp/swp_test_plugin",
     "license": "MIT",
     "authors": [
