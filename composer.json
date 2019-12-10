@@ -1,6 +1,6 @@
 
 {
     "name": "vivek-s-swp/swp_test_plugin",
-    "type": "cake-pluing",
+    "type": "cakephp-plugin",
     "description": "Cakephp test plugin for swp"
 }
