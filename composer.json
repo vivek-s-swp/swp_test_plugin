@@ -4,9 +4,6 @@
     "type": "cakephp-plugin",
     "description": "Cakephp test plugin for swp",
     "extra": {
-        "branch-alias": {
-            "dev-master": "2.2.x-dev"
-        },
         "installer-name": "SwpTestPlugin"
     },
     "homepage": "https://github.com/vivek-s-swp/swp_test_plugin",
